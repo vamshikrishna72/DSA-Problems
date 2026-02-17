@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0232-implement-queue-using-stacks) |
 ## Design
@@ -30,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0190-reverse-bits) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
