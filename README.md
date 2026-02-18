@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0070-climbing-stairs) |
 | [0799-champagne-tower](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0799-champagne-tower) |
 ## Stack
 |  |
@@ -42,4 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0401-binary-watch) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
