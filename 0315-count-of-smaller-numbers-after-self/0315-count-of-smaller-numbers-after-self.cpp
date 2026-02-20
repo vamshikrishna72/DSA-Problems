@@ -47,7 +47,7 @@ public:
         vector<int> result(n, 0);
         vector<pair<int,int>> arr;
         
-        // Store value + original index
+        
         for(int i = 0; i < n; i++) {
             arr.push_back({nums[i], i});
         }
