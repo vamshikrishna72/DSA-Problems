@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0070-climbing-stairs) |
 | [0799-champagne-tower](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0799-champagne-tower) |
+| [1463-cherry-pickup-ii](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1463-cherry-pickup-ii) |
 ## Stack
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0055-jump-game) |
 | [0496-next-greater-element-i](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0496-next-greater-element-i) |
+| [1463-cherry-pickup-ii](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1463-cherry-pickup-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -73,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0496-next-greater-element-i) |
+## Matrix
+|  |
+| ------- |
+| [1463-cherry-pickup-ii](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1463-cherry-pickup-ii) |
 <!---LeetCode Topics End-->
