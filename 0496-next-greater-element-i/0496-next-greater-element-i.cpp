@@ -1,14 +1,13 @@
 class Solution {
 public:
     vector<int> nextGreaterElement(vector<int>& nums1, vector<int>& nums2) {
-        unordered_map<int,int> mp;
         stack<int> st;
-
+        unordered_map<int,int>mp;
         for(int i=0;i<nums2.size();i++){
             while(!st.empty() && st.top() < nums2[i]){
-                int topElement = st.top();
+                int topelement = st.top();
                 st.pop();
-                mp[topElement] = nums2[i];
+                mp[topelement] = nums2[i];
             }
             st.push(nums2[i]);
         }
