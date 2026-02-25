@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0190-reverse-bits) |
 | [0401-binary-watch](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0401-binary-watch) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## String
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0496-next-greater-element-i](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0503-next-greater-element-ii) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1463-cherry-pickup-ii](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1463-cherry-pickup-ii) |
 ## Greedy
 |  |
@@ -108,4 +110,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Sorting
+|  |
+| ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+## Counting
+|  |
+| ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 <!---LeetCode Topics End-->
