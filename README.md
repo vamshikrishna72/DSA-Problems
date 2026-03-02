@@ -76,11 +76,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0503-next-greater-element-ii) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1463-cherry-pickup-ii](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1463-cherry-pickup-ii) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 ## Greedy
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0055-jump-game) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Hash Table
 |  |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1463-cherry-pickup-ii](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1463-cherry-pickup-ii) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 ## Binary Search
 |  |
 | ------- |
