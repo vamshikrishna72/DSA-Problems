@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0020-valid-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1143-longest-common-subsequence) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 ## Backtracking
 |  |
 | ------- |
