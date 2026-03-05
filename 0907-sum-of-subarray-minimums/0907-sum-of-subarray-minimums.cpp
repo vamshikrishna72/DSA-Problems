@@ -1,12 +1,5 @@
-#include <vector>
-#include <stack>
-#include <iostream>
-
-using namespace std;
-
 class Solution {
 public:
-    // Function to find the Nearest Smaller to Left (NSL) index
     vector<int>findPSE(const vector<int>& arr, int n) {
         vector<int> left(n, -1);
         stack<int> st; // Stores indices
@@ -21,11 +14,9 @@ public:
         }
         return left;
     }
-
-    // Function to find the Nearest Smaller to Right (NSR) index
     vector<int> findNSE(const vector<int>& arr, int n) {
         vector<int> right(n, n);
-        stack<int> st; // Stores indices
+        stack<int> st;
         for (int i = n - 1; i >= 0; --i) {
             while (!st.empty() && arr[st.top()] > arr[i]) {
                 st.pop();
