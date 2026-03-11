@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0190-reverse-bits) |
 | [0401-binary-watch](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0401-binary-watch) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1009-complement-of-base-10-integer](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1009-complement-of-base-10-integer) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## String
 |  |
