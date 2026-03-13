@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0020-valid-parentheses) |
 | [0402-remove-k-digits](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0402-remove-k-digits) |
 | [1143-longest-common-subsequence](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1143-longest-common-subsequence) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0496-next-greater-element-i](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0239-sliding-window-maximum) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Heap (Priority Queue)
