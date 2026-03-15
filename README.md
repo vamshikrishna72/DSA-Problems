@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0901-online-stock-span](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0901-online-stock-span) |
+| [1622-fancy-sequence](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1622-fancy-sequence) |
 ## Queue
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0070-climbing-stairs) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1622-fancy-sequence](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1622-fancy-sequence) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Memoization
 |  |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [1622-fancy-sequence](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1622-fancy-sequence) |
 ## Merge Sort
 |  |
 | ------- |
