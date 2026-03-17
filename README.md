@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1463-cherry-pickup-ii](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1463-cherry-pickup-ii) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2104-sum-of-subarray-ranges](https://github.com/vamshikrishna72/DSA-Problems/tree/master/2104-sum-of-subarray-ranges) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0402-remove-k-digits) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Hash Table
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0085-maximal-rectangle) |
 | [1463-cherry-pickup-ii](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1463-cherry-pickup-ii) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Binary Search
 |  |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0075-sort-colors) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Counting
 |  |
