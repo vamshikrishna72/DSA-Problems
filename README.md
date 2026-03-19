@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2104-sum-of-subarray-ranges](https://github.com/vamshikrishna72/DSA-Problems/tree/master/2104-sum-of-subarray-ranges) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Greedy
 |  |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Binary Search
 |  |
 | ------- |
@@ -241,4 +243,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 <!---LeetCode Topics End-->
