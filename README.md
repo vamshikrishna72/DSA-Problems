@@ -247,4 +247,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
