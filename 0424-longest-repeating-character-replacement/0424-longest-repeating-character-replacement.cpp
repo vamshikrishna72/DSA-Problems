@@ -21,36 +21,51 @@
 //         return maxLen;
 //     }
 // };
+// class Solution {
+// public:
+//     int characterReplacement(string s, int k) {
+//         vector<int> mpp(26, 0); 
+//         int maxf = 0;          
+//         int maxLen = 0;
+//         int left = 0;
 
+//         for (int right = 0; right < s.length(); right++) {
+            
+//             mpp[s[right] - 'A']++;
+           
+//             maxf = max(maxf, mpp[s[right] - 'A']);
 
-#include <vector>
-#include <string>
-#include <algorithm>
-using namespace std;
+           
+//             if ((right - left + 1) - maxf > k) {
+        
+//                 mpp[s[left] - 'A']--;
+//                 left++;
+//             }
+
+//             maxLen = max(maxLen, right - left + 1);
+//         }
+//         return maxLen;
+//     }
+// };
+
 
 class Solution {
 public:
     int characterReplacement(string s, int k) {
-        vector<int> mpp(26, 0); 
-        int maxf = 0;          
-        int maxLen = 0;
-        int left = 0;
-
-        for (int right = 0; right < s.length(); right++) {
-            
-            mpp[s[right] - 'A']++;
-           
-            maxf = max(maxf, mpp[s[right] - 'A']);
-
-           
-            if ((right - left + 1) - maxf > k) {
-        
-                mpp[s[left] - 'A']--;
-                left++;
+        int l=0,r=0,maxLen=0,maxf=0;
+        vector<int>hash(26,0);
+        int n=s.length();
+        while(r < n){
+            hash[s[r]-'A']++;
+            maxf = max(maxf,hash[s[r]-'A']);
+            while((r-l+1)-maxf > k ){
+                hash[s[l]-'A']--;
+                l++;
             }
-
-            maxLen = max(maxLen, right - left + 1);
+            maxLen = max(maxLen,r-l+1);
+            r++;
         }
         return maxLen;
+
     }
 };
