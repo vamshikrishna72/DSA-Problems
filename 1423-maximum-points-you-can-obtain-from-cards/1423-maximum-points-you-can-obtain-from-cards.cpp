@@ -7,15 +7,10 @@ public:
             lSum+=cardPoints[i];
         }
         maxSum = lSum;
-        int cnt=k;
-        int i=k-1;
-        int j=n-1;
-        while(cnt--){
-            lSum =lSum-cardPoints[i];
-            rSum=rSum+cardPoints[j];
+        for(int i=0;i<k;i++){
+            lSum =lSum-cardPoints[k-1-i];
+            rSum=rSum+cardPoints[n-1-i];
             maxSum=max(maxSum,(rSum+lSum));
-            i--;
-            j--;
         }
         return maxSum;
     }
