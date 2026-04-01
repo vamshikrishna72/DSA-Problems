@@ -6,7 +6,8 @@ public:
         vector<int> lastSeen(3,-1);
         for(int i=0;i<n;i++){
             lastSeen[s[i]-'a']=i;
-            cnt = cnt + (1 + min(lastSeen[0],min(lastSeen[1],lastSeen[2])));
+            if(lastSeen[0]!=-1 && lastSeen[1]!=-1 && lastSeen[2]!=-1)
+                cnt = cnt + (1 + min(lastSeen[0],min(lastSeen[1],lastSeen[2])));
         }
         return cnt;
     }
