@@ -17,8 +17,8 @@ public:
                 minLen=r-l+1;
                 startInd=l;
             }
-                hash[s[l]]++;
-                if(hash[s[l]]>0) cnt--;
+            hash[s[l]]++;
+            if(hash[s[l]]>0) cnt--;
             l++;
         }
         r++;
