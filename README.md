@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/vamshikrishna72/DSA-Problems/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2573-find-the-string-with-lcp](https://github.com/vamshikrishna72/DSA-Problems/tree/master/2573-find-the-string-with-lcp) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/vamshikrishna72/DSA-Problems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3474-lexicographically-smallest-generated-string) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0735-asteroid-collision) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/vamshikrishna72/DSA-Problems/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2751-robot-collisions](https://github.com/vamshikrishna72/DSA-Problems/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/vamshikrishna72/DSA-Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Sliding Window
