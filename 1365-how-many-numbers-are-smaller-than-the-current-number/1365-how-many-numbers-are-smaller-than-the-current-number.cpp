@@ -6,7 +6,7 @@ public:
         for(int i=0;i<n;i++){
             int cnt=0;
             for(int j=0;j<n;j++){
-                if(nums[j] < nums[i]){
+                if(i!=j && nums[j] < nums[i]){
                     cnt++;
                 }
             }
