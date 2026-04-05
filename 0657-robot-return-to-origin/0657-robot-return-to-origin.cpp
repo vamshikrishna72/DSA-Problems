@@ -2,11 +2,11 @@ class Solution {
 public:
     bool judgeCircle(string moves) {
         int x = 0, y = 0;
-        for (char m : moves) {
-            if (m == 'R') x++;
-            else if (m == 'L') x--;
-            else if (m == 'U') y++;
-            else if (m == 'D') y--;
+        for (char i : moves) {
+            if (i == 'R') x++;
+            else if (i == 'L') x--;
+            else if (i == 'U') y++;
+            else if (i == 'D') y--;
         }
         return x == 0 && y == 0;
     }
