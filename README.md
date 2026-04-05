@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0076-minimum-window-substring) |
 | [0402-remove-k-digits](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0424-longest-repeating-character-replacement) |
+| [0657-robot-return-to-origin](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0657-robot-return-to-origin) |
 | [1143-longest-common-subsequence](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0735-asteroid-collision) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/vamshikrishna72/DSA-Problems/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2751-robot-collisions](https://github.com/vamshikrishna72/DSA-Problems/tree/master/2751-robot-collisions) |
