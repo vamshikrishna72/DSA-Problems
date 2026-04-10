@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Greedy
 |  |
 | ------- |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/vamshikrishna72/DSA-Problems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Monotonic Stack
 |  |
 | ------- |
