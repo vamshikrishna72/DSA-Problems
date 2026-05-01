@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0085-maximal-rectangle) |
+| [0396-rotate-function](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0396-rotate-function) |
 | [0799-champagne-tower](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0799-champagne-tower) |
 | [0907-sum-of-subarray-minimums](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0907-sum-of-subarray-minimums) |
 | [1143-longest-common-subsequence](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1143-longest-common-subsequence) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0070-climbing-stairs) |
+| [0396-rotate-function](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0396-rotate-function) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1622-fancy-sequence](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1622-fancy-sequence) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0136-single-number) |
 | [0239-sliding-window-maximum](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0239-sliding-window-maximum) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0396-rotate-function](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0396-rotate-function) |
 | [0485-max-consecutive-ones](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0503-next-greater-element-ii) |
