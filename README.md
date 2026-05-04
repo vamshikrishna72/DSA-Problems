@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0070-climbing-stairs) |
 | [0396-rotate-function](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0396-rotate-function) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0084-largest-rectangle-in-histogram) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0085-maximal-rectangle) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1463-cherry-pickup-ii](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1463-cherry-pickup-ii) |
