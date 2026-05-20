@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1009-complement-of-base-10-integer](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1009-complement-of-base-10-integer) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/vamshikrishna72/DSA-Problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-total-distance-traveled](https://github.com/vamshikrishna72/DSA-Problems/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/vamshikrishna72/DSA-Problems/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/vamshikrishna72/DSA-Problems/tree/master/2573-find-the-string-with-lcp) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/vamshikrishna72/DSA-Problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2751-robot-collisions](https://github.com/vamshikrishna72/DSA-Problems/tree/master/2751-robot-collisions) |
 | [2906-construct-product-matrix](https://github.com/vamshikrishna72/DSA-Problems/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/vamshikrishna72/DSA-Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/vamshikrishna72/DSA-Problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/vamshikrishna72/DSA-Problems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3488-closest-equal-element-queries](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3488-closest-equal-element-queries) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3548-equal-sum-grid-partition-ii) |
