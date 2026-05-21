@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0239-sliding-window-maximum) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0396-rotate-function](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0396-rotate-function) |
+| [0455-assign-cookies](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0503-next-greater-element-ii) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0402-remove-k-digits) |
+| [0455-assign-cookies](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0455-assign-cookies) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0075-sort-colors) |
+| [0455-assign-cookies](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0455-assign-cookies) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -323,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0075-sort-colors) |
+| [0455-assign-cookies](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0455-assign-cookies) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3643-flip-square-submatrix-vertically](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3643-flip-square-submatrix-vertically) |
 ## Simulation
