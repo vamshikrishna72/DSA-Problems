@@ -3,9 +3,8 @@ public:
     int findParent(int node, vector<int>& parent) {
         if (parent[node] == node)
             return node;
-        return parent[node] = findParent(parent[node], parent);
+        return parent[node] = findParent(parent[node],parent);
     }
-
     void unionSets(int u, int v, vector<int>& parent, vector<int>& rank) {
         int rootU = findParent(u, parent);
         int rootV = findParent(v, parent);
