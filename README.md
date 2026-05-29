@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0239-sliding-window-maximum) |
+| [0283-move-zeroes](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0283-move-zeroes) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0396-rotate-function](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0396-rotate-function) |
 | [0455-assign-cookies](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0455-assign-cookies) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0455-assign-cookies) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3643-flip-square-submatrix-vertically](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3643-flip-square-submatrix-vertically) |
