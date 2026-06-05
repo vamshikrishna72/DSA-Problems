@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3742-maximum-path-score-in-a-grid) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Stack
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/vamshikrishna72/DSA-Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Memoization
 |  |
