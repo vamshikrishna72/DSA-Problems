@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0503-next-greater-element-ii) |
+| [0704-binary-search](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0735-asteroid-collision) |
 | [0874-walking-robot-simulation](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0874-walking-robot-simulation) |
 | [0904-fruit-into-baskets](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0904-fruit-into-baskets) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0704-binary-search](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
