@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0190-reverse-bits) |
+| [0231-power-of-two](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0231-power-of-two) |
 | [0401-binary-watch](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0401-binary-watch) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1009-complement-of-base-10-integer](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1009-complement-of-base-10-integer) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0231-power-of-two) |
 | [0396-rotate-function](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0396-rotate-function) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1248-count-number-of-nice-subarrays) |
@@ -498,4 +500,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0204-count-primes) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
