@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-satisfiability-of-equality-equations](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0990-satisfiability-of-equality-equations) |
 | [0992-subarrays-with-k-different-integers](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1094-car-pooling](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1094-car-pooling) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0455-assign-cookies) |
+| [1094-car-pooling](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1094-car-pooling) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0735-asteroid-collision) |
 | [0874-walking-robot-simulation](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0874-walking-robot-simulation) |
+| [1094-car-pooling](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1094-car-pooling) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/vamshikrishna72/DSA-Problems/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2751-robot-collisions](https://github.com/vamshikrishna72/DSA-Problems/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/vamshikrishna72/DSA-Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -421,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0239-sliding-window-maximum) |
+| [1094-car-pooling](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1094-car-pooling) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Monotonic Queue
@@ -454,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1094-car-pooling](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1094-car-pooling) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1838-frequency-of-the-most-frequent-element) |
