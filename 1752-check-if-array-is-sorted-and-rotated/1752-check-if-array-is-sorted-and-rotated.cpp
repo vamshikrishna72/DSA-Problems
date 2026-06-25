@@ -1,43 +1,51 @@
+class Solution {
+public:
+    bool check(vector<int>& nums) {
+        int n = nums.size();
+        int count = 0;
+        for(int i=0;i<n;i++){
+            if(nums[i] > nums[(i+1)%n]) count++;
+            
+        }
+        return count <= 1;
+    }
+};
+
+
 // class Solution {
 // public:
 //     bool check(vector<int>& nums) {
 //         int n = nums.size();
 //         int low = 0;
 //         int high = n - 1;
+        
 //         while(low < high){
-//             int mid = (low + (high - low))/2;
+//             int mid = low + (high - low) / 2;
 //             if(nums[mid] > nums[high]){
-//                 low = mid+1;
+//                 low = mid + 1;
 //             }
-//             else{
-//                 high=mid;
+//             else if (nums[mid] < nums[high]) {
+//                 high = mid;
+//             }
+//             else {
+//                 high--;
 //             }
 //         }
-//         for(int i=low;i<n-1;i++){
-//             if(nums[i] > nums[i+1]) return false;
-//             continue;
+        
+//         int pivot = low;
+
+//         for (int i = 0; i < n - 1; i++) {
+//             int curr = (pivot + i) % n;
+//             int next = (pivot + i + 1) % n;
+//             if (nums[curr] > nums[next]) {
+//                 return false;
+//             }
 //         }
-//         for(int i=0;i<low;i++){
-//             if(nums[i] > nums[i+1]) return false;
-//             continue;
-//         }
+
 //         return true;
 //     }
 // };
 
 
-class Solution {
-public:
-    bool check(vector<int>& nums) {
-        int n = nums.size();
-        int drop_count = 0;
-        
-        for (int i = 0; i < n; i++) {
-            if (nums[i] > nums[(i + 1) % n]) {
-                drop_count++;
-            }
-        }
-        
-        return drop_count <= 1;
-    }
-};
+
+
