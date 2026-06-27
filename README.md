@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/vamshikrishna72/DSA-Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/vamshikrishna72/DSA-Problems/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/vamshikrishna72/DSA-Problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/vamshikrishna72/DSA-Problems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3488-closest-equal-element-queries](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3488-closest-equal-element-queries) |
@@ -497,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0204-count-primes) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/vamshikrishna72/DSA-Problems/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3546-equal-sum-grid-partition-i](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3548-equal-sum-grid-partition-ii) |
 ## String Matching
