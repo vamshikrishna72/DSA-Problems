@@ -3,7 +3,7 @@ public:
     long long maxSubarraySum(std::vector<int>& nums, int k) {
         int n = nums.size();
         long long INF = 1e18;
-        std::vector<long long> min_prefix(k, INF);
+        vector<long long> min_prefix(k, INF);
         min_prefix[0] = 0;
         long long current_prefix = 0;
         long long max_sum = -INF; 
