@@ -4,12 +4,12 @@ public:
         vector<int> diff(n + 1, 0);
         
         for (const auto& booking : bookings) {
-            int first = booking[0] - 1;
-            int last = booking[1] - 1;
-            int seats = booking[2];
+            int modhalupettu = booking[0] - 1;
+            int mugimpu = booking[1] - 1;
+            int kurchilu = booking[2];
             
-            diff[first] += seats;
-            diff[last + 1] -= seats;
+            diff[modhalupettu] += kurchilu;
+            diff[mugimpu + 1] -= kurchilu;
         }
         
         vector<int> answer(n, 0);
