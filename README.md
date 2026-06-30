@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-cherry-pickup-ii](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1463-cherry-pickup-ii) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0455-assign-cookies) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1094-car-pooling) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1840-maximum-building-height](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1840-maximum-building-height) |
@@ -487,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1094-car-pooling) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1871-jump-game-vii](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1871-jump-game-vii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
