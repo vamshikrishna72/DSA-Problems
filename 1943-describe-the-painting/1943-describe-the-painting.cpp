@@ -1,11 +1,11 @@
 class Solution {
 public:
     vector<vector<long long>> splitPainting(vector<vector<int>>& segments) {
-        map<int, long long> diff;
+        map<int, long long> change;
 
         for (auto &seg : segments) {
-            diff[seg[0]] += seg[2];
-            diff[seg[1]] -= seg[2];
+            change[seg[0]] += seg[2];
+            change[seg[1]] -= seg[2];
         }
 
         vector<vector<long long>> res;
@@ -14,7 +14,7 @@ public:
         int prev = -1;
         bool first = true;
 
-        for (auto &[point, change] : diff) {
+        for (auto &[point, ch] : change) {
             if (!first && currColor > 0) {
                 res.push_back({
                     (long long)prev,
@@ -23,7 +23,7 @@ public:
                 });
             }
 
-            currColor += change;
+            currColor += ch;
             prev = point;
             first = false;
         }
