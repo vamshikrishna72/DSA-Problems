@@ -1,33 +1,39 @@
 class Solution {
 public:
-    vector<vector<long long>> splitPainting(vector<vector<int>>& segments) {
-        map<int, long long> change;
+    using ll=long long;
+    vector<vector<ll>> splitPainting(vector<vector<int>>& s) {
+        
+        int n=s.size();
 
-        for (auto &seg : segments) {
-            change[seg[0]] += seg[2];
-            change[seg[1]] -= seg[2];
+        vector<vector<ll>>ans;
+        map<ll,ll>mp;
+
+        for(int i=0;i<n;i++){
+
+            ll start=s[i][0];
+            ll end=s[i][1];
+            ll color=s[i][2];
+
+            mp[start]+=color;
+            mp[end]-=color;
+
         }
 
-        vector<vector<long long>> res;
 
-        long long currColor = 0;
-        int prev = -1;
-        bool first = true;
+        auto ele= mp.begin(); 
+        ll start=(*ele).first;
+        ll sum=(*ele).second;
 
-        for (auto &[point, ch] : change) {
-            if (!first && currColor > 0) {
-                res.push_back({
-                    (long long)prev,
-                    (long long)point,
-                    currColor
-                });
-            }
+        mp.erase(ele);
 
-            currColor += ch;
-            prev = point;
-            first = false;
+        for(auto ele:mp){
+            ll end=ele.first;
+            if(sum>0) ans.push_back({start,end,sum});
+            start=end;
+            sum+=ele.second;
         }
 
-        return res;
+        return ans;
+
     }
 };
