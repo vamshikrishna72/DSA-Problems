@@ -54,7 +54,6 @@ public:
                 }
             }
         }
-
         return A.back().back() - 1;
     }
 };
