@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3225-maximum-score-from-grid-operations](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3225-maximum-score-from-grid-operations) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3225-maximum-score-from-grid-operations](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3225-maximum-score-from-grid-operations) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3546-equal-sum-grid-partition-i](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -469,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vamshikrishna72/DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -492,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0990-satisfiability-of-equality-equations](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0990-satisfiability-of-equality-equations) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
 |  |
@@ -576,4 +580,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 <!---LeetCode Topics End-->
