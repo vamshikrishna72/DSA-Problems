@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1109-corporate-flight-bookings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1248-count-number-of-nice-subarrays) |
+| [1288-remove-covered-intervals](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0455-assign-cookies) |
 | [1094-car-pooling](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1094-car-pooling) |
+| [1288-remove-covered-intervals](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1288-remove-covered-intervals) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
