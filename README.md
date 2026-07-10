@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0657-robot-return-to-origin](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0657-robot-return-to-origin) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0496-next-greater-element-i) |
 | [0874-walking-robot-simulation](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0874-walking-robot-simulation) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0455-assign-cookies) |
 | [1094-car-pooling](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1094-car-pooling) |
 | [1288-remove-covered-intervals](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1288-remove-covered-intervals) |
