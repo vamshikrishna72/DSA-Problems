@@ -508,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/vamshikrishna72/DSA-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2573-find-the-string-with-lcp](https://github.com/vamshikrishna72/DSA-Problems/tree/master/2573-find-the-string-with-lcp) |
+| [2685-count-the-number-of-complete-components](https://github.com/vamshikrishna72/DSA-Problems/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vamshikrishna72/DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Graph Theory
@@ -515,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0990-satisfiability-of-equality-equations](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0990-satisfiability-of-equality-equations) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/vamshikrishna72/DSA-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/vamshikrishna72/DSA-Problems/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -575,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/vamshikrishna72/DSA-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/vamshikrishna72/DSA-Problems/tree/master/2685-count-the-number-of-complete-components) |
 ## Trie
 |  |
 | ------- |
@@ -591,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/vamshikrishna72/DSA-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/vamshikrishna72/DSA-Problems/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vamshikrishna72/DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Number Theory
