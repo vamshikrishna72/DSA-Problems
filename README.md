@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/vamshikrishna72/DSA-Problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/vamshikrishna72/DSA-Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3312-sorted-gcd-pair-queries](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3225-maximum-score-from-grid-operations](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3225-maximum-score-from-grid-operations) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3312-sorted-gcd-pair-queries](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3312-sorted-gcd-pair-queries](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3488-closest-equal-element-queries](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3488-closest-equal-element-queries) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
@@ -385,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vamshikrishna72/DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3312-sorted-gcd-pair-queries](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -441,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/vamshikrishna72/DSA-Problems/tree/master/2833-furthest-point-from-origin) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/vamshikrishna72/DSA-Problems/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3312-sorted-gcd-pair-queries](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 ## Two Pointers
 |  |
 | ------- |
@@ -552,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3225-maximum-score-from-grid-operations](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3225-maximum-score-from-grid-operations) |
+| [3312-sorted-gcd-pair-queries](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3546-equal-sum-grid-partition-i](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -611,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0204-count-primes) |
+| [3312-sorted-gcd-pair-queries](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
@@ -627,4 +634,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3620-network-recovery-pathways) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
