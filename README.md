@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0907-sum-of-subarray-minimums) |
+| [1021-remove-outermost-parentheses](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1021-remove-outermost-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/vamshikrishna72/DSA-Problems/tree/master/2104-sum-of-subarray-ranges) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/vamshikrishna72/DSA-Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2751-robot-collisions](https://github.com/vamshikrishna72/DSA-Problems/tree/master/2751-robot-collisions) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0796-rotate-string) |
 | [0990-satisfiability-of-equality-equations](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0990-satisfiability-of-equality-equations) |
+| [1021-remove-outermost-parentheses](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
