@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0657-robot-return-to-origin](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0657-robot-return-to-origin) |
+| [0686-repeated-string-match](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0796-rotate-string) |
 | [0990-satisfiability-of-equality-equations](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0990-satisfiability-of-equality-equations) |
 | [1021-remove-outermost-parentheses](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1021-remove-outermost-parentheses) |
@@ -590,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0686-repeated-string-match](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0796-rotate-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Counting Sort
