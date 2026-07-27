@@ -1,8 +1,7 @@
 class Solution {
-    
 public:
     vector<string> ans;
-    void solve(string &current,int n){
+    void solve(string current,int n){
         if(current.size() == n){
             ans.push_back(current);
             return;
@@ -15,8 +14,6 @@ public:
         current.push_back('1');
         solve(current,n);
         current.pop_back();
-
-        
     }
     vector<string> validStrings(int n) {
         string current = "";
