@@ -1,17 +1,17 @@
 class Solution {
 private:
-    void combinationSearch(int ind,int target,vector<int>& candidates,vector<vector<int>> &ans,vector<int>& ds){
-        if(ind == candidates.size()){
-            if(target == 0) ans.push_back(ds);
+    void combinationSearch(int ind,int target,vector<int>& arr,vector<vector<int>> &ans,vector<int>&ds){
+        if(ind == arr.size()){
+            if(target==0) ans.push_back(ds);
             return;
         }
-        if(candidates[ind] <= target){
-            ds.push_back(candidates[ind]);
-            combinationSearch(ind,target-candidates[ind],candidates,ans,ds);
+        
+        if(arr[ind] <= target){
+            ds.push_back(arr[ind]);
+            combinationSearch(ind,target-arr[ind],arr,ans,ds);
             ds.pop_back();
         }
-        combinationSearch(ind+1,target,candidates,ans,ds);
-
+        combinationSearch(ind+1,target,arr,ans,ds);
     }
 public:
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
