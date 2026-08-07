@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0231-power-of-two) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0078-subsets) |
 | [0401-binary-watch](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0401-binary-watch) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0085-maximal-rectangle) |
