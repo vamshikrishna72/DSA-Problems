@@ -1,10 +1,10 @@
 class Solution {
-public:
-    vector<string> ans;
+
+private:
+    vector<string>ans;
     void solve(string &current,int open,int close,int n){
         if(current.size() == 2*n){
             ans.push_back(current);
-            return;
         }
         if(open < n){
             current.push_back('(');
@@ -17,7 +17,9 @@ public:
             current.pop_back();
         }
     }
+public:
     vector<string> generateParenthesis(int n) {
+       
         string current = "";
         solve(current,0,0,n);
         return ans;
