@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0216-combination-sum-iii) |
 | [0401-binary-watch](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0401-binary-watch) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0204-count-primes) |
+| [0216-combination-sum-iii](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0283-move-zeroes) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
