@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0242-valid-anagram) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0216-combination-sum-iii) |
 | [0401-binary-watch](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0401-binary-watch) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0085-maximal-rectangle) |
@@ -381,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0048-rotate-image) |
+| [0079-word-search](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0085-maximal-rectangle) |
 | [1301-number-of-paths-with-max-score](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -635,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0079-word-search) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
