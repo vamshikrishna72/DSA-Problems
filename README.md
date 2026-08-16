@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3325-count-substrings-with-k-frequency-characters-i](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3614-process-string-with-special-operations-ii) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3312-sorted-gcd-pair-queries) |
+| [3325-count-substrings-with-k-frequency-characters-i](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3488-closest-equal-element-queries](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3488-closest-equal-element-queries) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
@@ -541,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1871-jump-game-vii](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [3325-count-substrings-with-k-frequency-characters-i](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
