@@ -15,8 +15,6 @@ public:
 
                 if (s[j] == '1')
                     oneCnt++;
-
-                // More than k ones can never become valid again
                 if (oneCnt > k)
                     break;
 
