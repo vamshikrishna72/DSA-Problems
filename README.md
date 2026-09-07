@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0131-palindrome-partitioning) |
 | [0396-rotate-function](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0396-rotate-function) |
 | [0799-champagne-tower](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0799-champagne-tower) |
 | [0907-sum-of-subarray-minimums](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0907-sum-of-subarray-minimums) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0242-valid-anagram) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0216-combination-sum-iii) |
 | [0401-binary-watch](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0401-binary-watch) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
