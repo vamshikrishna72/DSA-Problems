@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1463-cherry-pickup-ii](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1463-cherry-pickup-ii) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1871-jump-game-vii](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2463-minimum-total-distance-traveled](https://github.com/vamshikrishna72/DSA-Problems/tree/master/2463-minimum-total-distance-traveled) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1622-fancy-sequence](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1622-fancy-sequence) |
 | [1840-maximum-building-height](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1840-maximum-building-height) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -622,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1871-jump-game-vii](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1871-jump-game-vii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -717,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3312-sorted-gcd-pair-queries](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 ## Bucket Sort
 |  |
