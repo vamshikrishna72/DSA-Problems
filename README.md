@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3612-process-string-with-special-operations-i](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3838-weighted-word-mapping) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Backtracking
 |  |
 | ------- |
@@ -601,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3620-network-recovery-pathways](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3620-network-recovery-pathways) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -632,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-network-recovery-pathways](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3620-network-recovery-pathways) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
@@ -736,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3620-network-recovery-pathways](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3620-network-recovery-pathways) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Topological Sort
 |  |
 | ------- |
