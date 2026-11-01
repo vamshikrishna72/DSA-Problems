@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0231-power-of-two) |
 | [0396-rotate-function](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0396-rotate-function) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0283-move-zeroes) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0396-rotate-function](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0396-rotate-function) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0496-next-greater-element-i) |
