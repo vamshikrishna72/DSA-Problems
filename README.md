@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0268-missing-number) |
 | [0401-binary-watch](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0401-binary-watch) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1009-complement-of-base-10-integer](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1009-complement-of-base-10-integer) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0268-missing-number) |
 | [0396-rotate-function](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0396-rotate-function) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0283-move-zeroes) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0349-intersection-of-two-arrays](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0349-intersection-of-two-arrays) |
@@ -377,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0451-sort-characters-by-frequency) |
@@ -467,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0268-missing-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0349-intersection-of-two-arrays](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0540-single-element-in-a-sorted-array) |
@@ -509,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0455-assign-cookies) |
