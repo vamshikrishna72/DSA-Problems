@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-find-the-string-with-lcp](https://github.com/vamshikrishna72/DSA-Problems/tree/master/2573-find-the-string-with-lcp) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/vamshikrishna72/DSA-Problems/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/vamshikrishna72/DSA-Problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2747-count-zero-request-servers](https://github.com/vamshikrishna72/DSA-Problems/tree/master/2747-count-zero-request-servers) |
 | [2751-robot-collisions](https://github.com/vamshikrishna72/DSA-Problems/tree/master/2751-robot-collisions) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vamshikrishna72/DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/vamshikrishna72/DSA-Problems/tree/master/2906-construct-product-matrix) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1943-describe-the-painting](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1943-describe-the-painting) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/vamshikrishna72/DSA-Problems/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/vamshikrishna72/DSA-Problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2747-count-zero-request-servers](https://github.com/vamshikrishna72/DSA-Problems/tree/master/2747-count-zero-request-servers) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/vamshikrishna72/DSA-Problems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vamshikrishna72/DSA-Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -534,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/vamshikrishna72/DSA-Problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2463-minimum-total-distance-traveled](https://github.com/vamshikrishna72/DSA-Problems/tree/master/2463-minimum-total-distance-traveled) |
+| [2747-count-zero-request-servers](https://github.com/vamshikrishna72/DSA-Problems/tree/master/2747-count-zero-request-servers) |
 | [2751-robot-collisions](https://github.com/vamshikrishna72/DSA-Problems/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/vamshikrishna72/DSA-Problems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/vamshikrishna72/DSA-Problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -606,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1871-jump-game-vii](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2747-count-zero-request-servers](https://github.com/vamshikrishna72/DSA-Problems/tree/master/2747-count-zero-request-servers) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/vamshikrishna72/DSA-Problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/vamshikrishna72/DSA-Problems/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 ## Heap (Priority Queue)
