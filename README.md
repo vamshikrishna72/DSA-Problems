@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0078-subsets) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0085-maximal-rectangle) |
 | [1301-number-of-paths-with-max-score](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
@@ -585,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0054-spiral-matrix) |
 | [0657-robot-return-to-origin](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0735-asteroid-collision) |
 | [0874-walking-robot-simulation](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0874-walking-robot-simulation) |
