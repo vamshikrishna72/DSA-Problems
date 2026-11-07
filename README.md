@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0190-reverse-bits) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0204-count-primes) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0076-minimum-window-substring) |
+| [0169-majority-element](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0268-missing-number) |
@@ -515,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0268-missing-number) |
@@ -548,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1189-maximum-number-of-balloons) |
@@ -789,4 +794,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/vamshikrishna72/DSA-Problems/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/vamshikrishna72/DSA-Problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
