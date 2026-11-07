@@ -5,14 +5,14 @@ public:
         vector<int> res(n);
         int l = 0;
         int r = 1;
-        for(int i=0;i<n;i++){
-            if(nums[i]>0){
-                res[l] = nums[i];
+        for(int num : nums){
+            if(num > 0){
+                res[l] = num;
                 l+=2;
             }
             
             else{
-                res[r] = nums[i];
+                res[r] = num;
                 r+=2;
             }
         }
